@@ -1,5 +1,5 @@
 #include <jni.h>
-#include <botan_all.h>
+#include <./botan_all.h>
 
 using namespace Botan;
 
